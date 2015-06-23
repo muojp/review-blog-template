@@ -1,7 +1,8 @@
 .review-post br { margin: 0px 0px 12px 0px; }
-.review-post h2 { font-size: 1.5em; color: #757EFF; border-bottom: 1px solid #000; padding-bottom: 0.1em !important; }
-.review-post h3 { font-size: 1.2em; color: #757EFF; border-bottom: 1px dashed #000; padding-bottom: 0.1em !important; }
-.review-post h4 { font-size: 1.1em; color: #757EFF; border-bottom: 1px dashed #000; padding-bottom: 0.1em !important; }
+.review-post h2, .review-post h3, .review-post h4 { color: #757EFF; border-bottom: 1px solid #000; padding-bottom: 0.1em !important; }
+.review-post h2 { font-size: 1.5em; }
+.review-post h3 { font-size: 1.2em; }
+.review-post h4 { font-size: 1.1em; }
 .review-post div.caption { text-align: center; margin-bottom: 1em !important; }
 .review-post ul li { padding: 0px !important; }
 .review-post div.footnote ~ h2 { margin-top: 1em; }
